@@ -1,0 +1,3 @@
+/Users/sergiu.ferentz/personal/tinyRayTracer/tinyraytracer/build/CMakeFiles/rebuild_cache.dir
+/Users/sergiu.ferentz/personal/tinyRayTracer/tinyraytracer/build/CMakeFiles/edit_cache.dir
+/Users/sergiu.ferentz/personal/tinyRayTracer/tinyraytracer/build/CMakeFiles/tinyraytracer.dir

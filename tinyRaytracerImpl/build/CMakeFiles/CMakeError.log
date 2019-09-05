@@ -1,0 +1,26 @@
+Performing C++ SOURCE FILE Test flag_supported failed with the following output:
+Change Dir: /Users/sergiu.ferentz/personal/tinyRayTracer/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_6b673/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_6b673.dir/build.make CMakeFiles/cmTC_6b673.dir/build
+Building CXX object CMakeFiles/cmTC_6b673.dir/src.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/c++    -Wall -Wextra -pedantic -std=c++11 -O3 -Dflag_supported   -fopenmp -o CMakeFiles/cmTC_6b673.dir/src.cxx.o -c /Users/sergiu.ferentz/personal/tinyRayTracer/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+clang: error: unsupported option '-fopenmp'
+make[1]: *** [CMakeFiles/cmTC_6b673.dir/src.cxx.o] Error 1
+make: *** [cmTC_6b673/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported failed with the following output:
+Change Dir: /Users/sergiu.ferentz/personal/tinyRayTracer/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_079a0/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_079a0.dir/build.make CMakeFiles/cmTC_079a0.dir/build
+Building CXX object CMakeFiles/cmTC_079a0.dir/src.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/c++    -Wall -Wextra -pedantic -std=c++11 -O3 -Dflag_supported   -fopenmp -o CMakeFiles/cmTC_079a0.dir/src.cxx.o -c /Users/sergiu.ferentz/personal/tinyRayTracer/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+clang: error: unsupported option '-fopenmp'
+make[1]: *** [CMakeFiles/cmTC_079a0.dir/src.cxx.o] Error 1
+make: *** [cmTC_079a0/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
